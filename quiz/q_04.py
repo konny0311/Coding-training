@@ -10,12 +10,6 @@ def cut_bar(n, m , current):
 
 print(cut_bar(100, 5, 1))
 
-    
-
-
-
-
-
 
 # M = 3
 # N = 20
